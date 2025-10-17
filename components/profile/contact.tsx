@@ -38,10 +38,10 @@ const Contact = () => {
                 </div>
                 <h3 className="font-semibold text-foreground mb-2">Email</h3>
                 <a
-                  href="mailto:darshangautam666@gmail.com"
+                  href="mailto:info@drdarshan.com"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
-                  darshangautam666@gmail.com
+                  info@drdarshan.com
                 </a>
               </Card>
 
